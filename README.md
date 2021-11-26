@@ -1,4 +1,4 @@
-# Minesweeper Game Python
+# Minesweeper Game Python 🌏
 
 **Options:**
 * Put Flags
